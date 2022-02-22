@@ -1,0 +1,54 @@
+body{
+    background-image:  linear-gradient(rgba(19, 19, 19, 0.3),rgba(18, 19, 19, 0.3)),url(./background.jpg);
+background-size: cover;}
+nav{
+    background: linear-gradient(rgba(96, 143, 230, 0.521),rgba(132, 177, 221, 0.4));
+}
+.navbar-brand img{
+    height:76px;
+
+}
+
+.Clock{
+    border-radius: 15px;
+text-align: center;
+padding: 50px 0px;
+background-image:linear-gradient(rgba(24, 90, 85, 0.3),rgba(22, 100, 100, 0.3)),url("./background2.jpg");
+color:black ;
+margin-left: 269px;
+margin-right: 239px;
+background-size: cover;
+}
+.Clock .p2{
+    color:white;
+}
+.container-fluid{
+    box-shadow: rgba(36, 26, 26, 0.493);
+}
+h5 a{
+    text-decoration: none;
+    font-size: 30px;
+    color:black;
+    
+}
+h5 a:hover{
+    color: white;
+    background-color: black;
+    transition: 0.5s;
+    padding: 10px;
+    border-radius: 20px;
+}
+/* footer */
+footer{
+    text-align: center;
+    color:white;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+
+}
+footer a:hover{
+    color: black;
+    
+}
